@@ -19,7 +19,7 @@
 
 <br>
 
-Hi, i'm Mihir Panchal, a passionate Problem Solver from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm Mihir Panchal,I am interested to work as a solution provider for Computer Software. Prefer in software development / automation / programming field having good skill in projects & design developments as well as handling all aspects of project management starts from creating demand, making it happen according to company structure.
 
 <ul>
 <li> 🌱 I’m currently pursuing Diploma in Shri Bhagubhai Mafatlal Polytechnic </li>
