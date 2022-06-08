@@ -1,6 +1,6 @@
 <h1> Hey, I’m Mihir! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
   
-<a href="https://discord.gg/XM3vFyzNaE">
+<a href="[https://discord.gg/XM3vFyzNaE](https://discord.gg/3VDgsX3C)">
   <img align="left" alt="Mihir | Discord" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <!-- <a href="https://twitter.com/Mihir_Panchal">
