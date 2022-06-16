@@ -30,11 +30,11 @@ Hi, i'm Mihir Panchal,I am interested to work as a solution provider for Compute
 
   <hr>
 <p>
-<!-- <p align="center">
+<p align="center">
   <a href="https://MihirPanchal.github.io/">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=MihirPanchal&show_icons=true&theme=tokyonight" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=MihirPanchal&theme=tokyonight" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=MihirRajeshPanchal&show_icons=true&theme=tokyonight" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=MihirRajeshPanchal&theme=tokyonight" />
   </a>
-</p> -->
+</p>
 
 </a>
