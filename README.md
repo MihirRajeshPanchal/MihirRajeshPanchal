@@ -34,6 +34,7 @@ Hi, i'm Mihir Panchal,I am interested to work as a solution provider for Compute
   <a href="https://MihirPanchal.github.io/">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=MihirRajeshPanchal&show_icons=true&theme=tokyonight" />
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=MihirRajeshPanchal&theme=tokyonight" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MihirRajeshPanchal&theme=dark&layout=compact)](https://github.com/MihirRajeshPanchal)
   </a>
 </p>
 
