@@ -31,7 +31,7 @@ Hi, i'm Mihir Panchal,I am interested to work as a solution provider for Compute
 
 <p>
 <p align="center">
-<img width="500" src="https://activity-graph.herokuapp.com/graph?username=MihirRajeshPanchal&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+<img width="800" src="https://activity-graph.herokuapp.com/graph?username=MihirRajeshPanchal&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
 <br>
 
 <img width="400" src="https://github-profile-trophy.vercel.app/?username=MihirRajeshPanchal&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" />
