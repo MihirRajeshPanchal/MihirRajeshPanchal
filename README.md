@@ -27,7 +27,9 @@ Hi, i'm Mihir Panchal,I am interested to work as a solution provider for Compute
 <li> 💬 Ask me about anything, I am happy to help; </li>
 <li> ⚡ Fun fact : The more you GRIND, the more you GET💫</li>
 </ul>
+<hr>
 [![Mihir's github activity graph](https://activity-graph.herokuapp.com/graph?username=MihirRajeshPanchal&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/MihirRajeshPanchal/github-readme-activity-graph)
+<hr>
 #Github Profile Stats:
 [![trophy](https://github-profile-trophy.vercel.app/?username=MihirRajeshPanchal&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/MihirRajeshPanchal)
 <hr>
