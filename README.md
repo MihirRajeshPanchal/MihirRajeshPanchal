@@ -29,9 +29,11 @@ Hi, i'm Mihir Panchal,I am interested to work as a solution provider for Compute
 </ul>
 <hr>
 #Mihir's github activity graph
+<br>
 [![Mihir's github activity graph](https://activity-graph.herokuapp.com/graph?username=MihirRajeshPanchal&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/MihirRajeshPanchal/github-readme-activity-graph)
-#Mihir's profile stats
 <hr>
+#Mihir's profile stats
+<br>
 #Github Profile Stats:
 [![trophy](https://github-profile-trophy.vercel.app/?username=MihirRajeshPanchal&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/MihirRajeshPanchal)
 <hr>
