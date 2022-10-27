@@ -30,6 +30,10 @@ Hi, i'm Mihir Panchal,I am interested to work as a solution provider for Compute
 <hr>
 
 <p>
+  [![@mihirrajeshpanchal's Holopin board](https://holopin.io/api/user/board?user=mihirrajeshpanchal)](https://holopin.io/@mihirrajeshpanchal)
+</p>
+<hr>
+<p>
 <p align="center">
 <img width="800" src="https://activity-graph.herokuapp.com/graph?username=MihirRajeshPanchal&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
 <br>
