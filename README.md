@@ -29,9 +29,7 @@ Hi, i'm Mihir Panchal,I am interested to work as a solution provider for Compute
 </ul>
 <hr>
 
-<p>
-  [![@mihirrajeshpanchal's Holopin board](https://holopin.io/api/user/board?user=mihirrajeshpanchal)](https://holopin.io/@mihirrajeshpanchal)
-</p>
+[![@mihirrajeshpanchal's Holopin board](https://holopin.io/api/user/board?user=mihirrajeshpanchal)](https://holopin.io/@mihirrajeshpanchal)
 <hr>
 <p>
 <p align="center">
