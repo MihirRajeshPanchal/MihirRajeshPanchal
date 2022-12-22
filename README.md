@@ -18,7 +18,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MihirRajeshPanchal)
 
 <br>
-
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 Hi, i'm Mihir Panchal,I am interested to work as a solution provider for Computer Software. Prefer in software development / automation / programming field having good skill in projects & design developments as well as handling all aspects of project management starts from creating demand, making it happen according to company structure.
 
 <ul>
@@ -27,6 +27,7 @@ Hi, i'm Mihir Panchal,I am interested to work as a solution provider for Compute
 <li> 💬 Ask me about anything, I am happy to help; </li>
 <li> ⚡ Fun fact : The more you GRIND, the more you GET💫</li>
 </ul>
+
 <hr>
 
 [![@mihirrajeshpanchal's Holopin board](https://holopin.io/api/user/board?user=mihirrajeshpanchal)](https://holopin.io/@mihirrajeshpanchal)
