@@ -29,14 +29,22 @@ Hi, i'm Mihir Panchal,I am interested to work as a solution provider for Compute
 </ul>
 
 <hr>
+<h2>Holopin Badges<h2>
 
 [![@mihirrajeshpanchal's Holopin board](https://holopin.io/api/user/board?user=mihirrajeshpanchal)](https://holopin.io/@mihirrajeshpanchal)
 <hr>
-<p>
+
+  
+<h2>Mihir's Contribution Graph<h2>
+
 <p align="center">
 <img width="800" src="https://github-readme-activity-graph.cyclic.app/graph?username=MihirRajeshPanchal" />
 <br>
+<p>
 
+<h2>GitHub Trophies<h2>
+
+<p align="center">
 <img width="800" src="https://github-profile-trophy.vercel.app/?username=MihirRajeshPanchal&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" />
 <br>
   <a href="https://MihirPanchal.github.io/">
@@ -47,4 +55,8 @@ Hi, i'm Mihir Panchal,I am interested to work as a solution provider for Compute
 </p>
 </a>
 
+<hr>
+<h1>Github Contribution<h1>
+
 ![snake gif](https://github.com/MihirRajeshPanchal/MihirRajeshPanchal/blob/output/github-contribution-grid-snake.gif)
+
