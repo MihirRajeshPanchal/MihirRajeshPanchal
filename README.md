@@ -24,7 +24,7 @@ Hi, i'm Mihir Panchal,I am interested to work as a solution provider for Compute
 <ul>
 <li> 🌱 I’m currently pursuing Diploma in Shri Bhagubhai Mafatlal Polytechnic </li>
 <li> 💼 Wanna colab on Projects? do reach, <a href="mailto:mihirpanchal5400@gmail.com">email</a></li>
-<li> 💬 Ask me about anything, I am happy to help; </li>
+<li> 💬 Ask me about anything, I am happy to help </li>
 <li> ⚡ Fun fact : The more you GRIND, the more you GET💫</li>
 </ul>
 
