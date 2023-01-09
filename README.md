@@ -56,6 +56,12 @@ Hi, i'm Mihir Panchal,I am interested to work as a solution provider for Compute
 </a>
 
 <hr>
+  <p align="center">
+  <a href="https://quine.sh/profile/MihirRajeshPanchal"><img src="https://stats.quine.sh/MihirRajeshPanchal/github" alt="MihirRajeshPanchal's GitHub stats" width="840px"></a> 
+<!--   ![MihirRajeshPanchal's kaggle showcase](https://stats.quine.sh/MihirRajeshPanchal/kaggle)
+  ![MihirRajeshPanchal's Stack Overflow achievements](https://stats.quine.sh/MihirRajeshPanchal/stack-overflow)
+  ![MihirRajeshPanchal's dev.to showcase](https://stats.quine.sh/MihirRajeshPanchal/dev-to) -->
+  </p>
 <h1>Github Contribution<h1>
 
 ![snake gif](https://github.com/MihirRajeshPanchal/MihirRajeshPanchal/blob/output/github-contribution-grid-snake.gif)
