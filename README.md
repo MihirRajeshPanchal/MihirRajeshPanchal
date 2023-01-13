@@ -48,9 +48,9 @@ Hi, i'm Mihir Panchal,I am interested to work as a solution provider for Compute
 <img width="800" src="https://github-profile-trophy.vercel.app/?username=MihirRajeshPanchal&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" />
 <br>
   <a href="https://MihirPanchal.github.io/">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=MihirRajeshPanchal&show_icons=true&theme=tokyonight" />
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MihirRajeshPanchal&show_icons=true&theme=tokyonight" />
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=MihirRajeshPanchal&theme=tokyonight" />
-   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihirRajeshPanchal&theme=dark&layout=compact" /> 
+   <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MihirRajeshPanchal&theme=dark&layout=compact" /> 
   </a>
 </p>
 </a>
