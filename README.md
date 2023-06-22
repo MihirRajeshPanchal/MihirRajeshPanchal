@@ -38,7 +38,7 @@ Hi, i'm Mihir Panchal,I am interested to work as a solution provider for Compute
 <h2>Mihir's Contribution Graph<h2>
 
 <p align="center">
-<img width="800" src="https://github-readme-activity-graph.cyclic.app/graph?username=MihirRajeshPanchal" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=MihirRajeshPanchal" />
 <br>
 <p>
 
