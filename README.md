@@ -1,13 +1,13 @@
 <h1> Hey, I’m Mihir! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
   
 <a href="https://discord.gg/459j6nNCab">
-  <img align="left" alt="Mihir | Discord" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Mihir | Discord" width="30" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
 </a>
 <!-- <a href="https://twitter.com/Mihir_Panchal">
   <img align="left" alt="Mihir | Twitter" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
 <a href="https://www.linkedin.com/in/mihir-panchal-9b6677220/">
-  <img align="left" alt="Mihir | LinkedIN" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Mihir | LinkedIN" width="30" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/mihir_panchal_16/">
   <img align="left" alt="Mihir | Instagram" width="30" src="https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png" />
