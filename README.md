@@ -62,10 +62,12 @@ Hi, i'm Mihir Panchal,I am interested to work as a solution provider for Compute
 </p>
 <hr>
 <br>
-  
 <hr>
   <p align="center">
   <a href="https://quine.sh/profile/MihirRajeshPanchal"><img src="https://stats.quine.sh/MihirRajeshPanchal/github" alt="MihirRajeshPanchal's GitHub stats" width="840px"></a> 
+    <a href="https://quine.sh/profile/MihirRajeshPanchal"><img src="https://stats.quine.sh/MihirRajeshPanchal/dependencies?theme=dark" alt="MihirRajeshPanchal's GitHub | Dependencies" width="840px"></a> 
+    <a href="https://quine.sh/profile/MihirRajeshPanchal"><img src="https://stats.quine.sh/MihirRajeshPanchal/topics-over-time?theme=dark" alt="MihirRajeshPanchal's GitHub | Topics Over Time" width="840px"></a> 
+    <a href="https://quine.sh/profile/MihirRajeshPanchal"><img src="https://stats.quine.sh/MihirRajeshPanchal/languages-over-time?theme=dark" alt="MihirRajeshPanchal's GitHub | Languages Over Time" width="840px"></a> 
 <!--   ![MihirRajeshPanchal's kaggle showcase](https://stats.quine.sh/MihirRajeshPanchal/kaggle)
   ![MihirRajeshPanchal's Stack Overflow achievements](https://stats.quine.sh/MihirRajeshPanchal/stack-overflow)
   ![MihirRajeshPanchal's dev.to showcase](https://stats.quine.sh/MihirRajeshPanchal/dev-to) -->
