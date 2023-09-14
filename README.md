@@ -74,5 +74,5 @@ Hi, i'm Mihir Panchal,I am interested to work as a solution provider for Compute
   </p>
 <h1>Github Contribution✨<h1>
 
-![snake gif](https://github.com/MihirRajeshPanchal/MihirRajeshPanchal/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/MihirRajeshPanchal/MihirRajeshPanchal/blob/output/github-contribution-grid-snake.svg)
 
