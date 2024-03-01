@@ -16,6 +16,8 @@
 
 ![counter](https://enn1fxhjqs0lr2a.m.pipedream.net)
 ![Profile Views](https://komarev.com/ghpvc/?username=MihirRajeshPanchal)
+[![wakatime](https://wakatime.com/badge/user/66b41135-4ace-42e3-8835-e1f376bb31e3.svg)](https://wakatime.com/@66b41135-4ace-42e3-8835-e1f376bb31e3)
+
 
 <br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
