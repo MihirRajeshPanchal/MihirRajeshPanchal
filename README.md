@@ -32,7 +32,8 @@ Hi, i'm Mihir Panchal,I am interested to work as a solution provider for Compute
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,aws,blender,bootstrap,c,cs,css,dart,devto,django,docker,dynamodb,elasticsearch,fastapi,figma,firebase,flask,flutter,gcp,git,github,githubactions,html,ai,js,linux,mongodb,mysql,netlify,nextjs,nodejs,npm,opencv,postgres,postman,prisma,py,pytorch,react,redis,replit,sqlite,sklearn,tailwind,tensorflow,terraform,threejs,ubuntu,unity,vercel,vite,vscode&perline=14" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,androidstudio,aws,blender,bootstrap,c,cs,css,dart,devto,django,docker,dynamodb,elasticsearch,expo,fastapi,figma,firebase,flask,fleet,flutter,gcp,git,github,githubactions,html,huggingface,ai,java,js,jupyter,kaggle,langchain,linux,latex,llamaindex,mongodb,mysql,netlify,nextjs,nodejs,npm,ollama,opencv,postgres,postman,prisma,py,pygame,pytorch,qdrant,react,redis,replit,seaborn,selenium,sklearn,sqlite,streamlit,s3,tailwind,tensorflow,terraform,threejs,typescript,ubuntu,unity,vercel,vite,vscode,vuejs&perline=14" />
+
   </a>
 </p>
 
