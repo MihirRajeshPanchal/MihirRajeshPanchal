@@ -6,7 +6,7 @@
 <!-- <a href="https://twitter.com/Mihir_Panchal">
   <img align="left" alt="Mihir | Twitter" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
-<a href="https://www.linkedin.com/in/mihir-panchal-9b6677220/">
+<a href="https://www.linkedin.com/in/mihirpanchal54/">
   <img align="left" alt="Mihir | LinkedIN" width="30" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/mihir_panchal_16/">
