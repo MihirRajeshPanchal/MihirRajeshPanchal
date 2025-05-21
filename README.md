@@ -21,7 +21,7 @@
 
 <br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-Hi, i'm Mihir Panchal,I am interested to work as a solution provider for Computer Software. Prefer in software development / automation / programming field having good skill in projects & design developments as well as handling all aspects of project management starts from creating demand, making it happen according to company structure.
+Hi, I'm Mihir Panchal, an interdisciplinary researcher exploring the frontier of intelligent systems. My work spans Large Language Models, Program Synthesis, Human-AI Collaboration, and Scientific NLP, with a strong focus on building tools that enhance reasoning, creativity, and knowledge discovery. I've collaborated with the AI-NLP-ML Group at the Department of CSE, IIT Patna, as well as IIT Mandi and DRDO, often merging ideas from AI, HCI, and software systems. I'm passionate about making AI more useful, trustworthy, and aligned with human values especially in high-stakes domains like science and research. I love collaborating across disciplines and geographies, and am always open to meaningful conversations or potential research collaborations. Below is a non-exhaustive list of my current research interests feel free to reach out anytime :)
 
 <ul>
 <li> 🌱 I’m currently pursuing BTech in Computer Engineering at Dwarkadas J. Sanghvi College of Engineering </li>
