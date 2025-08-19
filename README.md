@@ -21,7 +21,7 @@
 
 <br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-Hi, I'm Mihir Panchal, an interdisciplinary researcher exploring the frontier of intelligent systems. My work spans Large Language Models, Program Synthesis, Human-AI Collaboration, and Scientific NLP, with a strong focus on building tools that enhance reasoning, creativity, and knowledge discovery. I've collaborated with the AI-NLP-ML Group at the Department of CSE, IIT Patna, as well as IIT Mandi and DRDO, often merging ideas from AI, HCI, and software systems. I'm passionate about making AI more useful, trustworthy, and aligned with human values especially in high-stakes domains like science and research. I love collaborating across disciplines and geographies, and am always open to meaningful conversations or potential research collaborations. Below is a non-exhaustive list of my current research interests feel free to reach out anytime :)
+Hi, I'm Mihir Panchal, an interdisciplinary researcher exploring the frontier of intelligent systems. My work spans Large Language Models, Program Synthesis, Human-AI Collaboration, and Scientific NLP, with a strong focus on building tools that enhance reasoning, creativity, and knowledge discovery. I've collaborated with the AI-NLP-ML Group at the Department of CSE, IIT Patna, as well as IIT Mandi and DRDO, often merging ideas from AI, HCI, and software systems. I'm passionate about making AI more useful, trustworthy, and aligned with human values especially in high-stakes domains like science and research. I love collaborating across disciplines and geographies, and am always open to meaningful conversations or potential research collaborations. 
 
 <ul>
 <li> 🌱 I’m currently pursuing BTech in Computer Engineering at Dwarkadas J. Sanghvi College of Engineering </li>
@@ -74,17 +74,6 @@ Hi, I'm Mihir Panchal, an interdisciplinary researcher exploring the frontier of
 <img src="./profile-3d-contrib/profile-night-green.svg">
 </p>
 <hr>
-<br>
-<hr>
-  <p align="center">
-  <a href="https://quine.sh/profile/MihirRajeshPanchal"><img src="https://stats.quine.sh/MihirRajeshPanchal/github" alt="MihirRajeshPanchal's GitHub stats" width="840px"></a> 
-    <a href="https://quine.sh/profile/MihirRajeshPanchal"><img src="https://stats.quine.sh/MihirRajeshPanchal/dependencies?theme=dark" alt="MihirRajeshPanchal's GitHub | Dependencies" width="840px"></a> 
-    <a href="https://quine.sh/profile/MihirRajeshPanchal"><img src="https://stats.quine.sh/MihirRajeshPanchal/topics-over-time?theme=dark" alt="MihirRajeshPanchal's GitHub | Topics Over Time" width="840px"></a> 
-    <a href="https://quine.sh/profile/MihirRajeshPanchal"><img src="https://stats.quine.sh/MihirRajeshPanchal/languages-over-time?theme=dark" alt="MihirRajeshPanchal's GitHub | Languages Over Time" width="840px"></a> 
-<!--   ![MihirRajeshPanchal's kaggle showcase](https://stats.quine.sh/MihirRajeshPanchal/kaggle)
-  ![MihirRajeshPanchal's Stack Overflow achievements](https://stats.quine.sh/MihirRajeshPanchal/stack-overflow)
-  ![MihirRajeshPanchal's dev.to showcase](https://stats.quine.sh/MihirRajeshPanchal/dev-to) -->
-  </p>
 <h1>Github Contribution✨<h1>
 
 ![snake gif](https://github.com/MihirRajeshPanchal/MihirRajeshPanchal/blob/output/github-contribution-grid-snake.svg)
