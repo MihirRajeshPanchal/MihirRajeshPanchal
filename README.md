@@ -21,7 +21,7 @@
 
 <br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-Hi, I'm Mihir Panchal, an interdisciplinary researcher exploring the frontier of intelligent systems. My work spans Large Language Models, Program Synthesis, Human-AI Collaboration, and Scientific NLP, with a strong focus on building tools that enhance reasoning, creativity, and knowledge discovery. I've collaborated with the AI-NLP-ML Group at the Department of CSE, IIT Patna, as well as IIT Mandi and DRDO, often merging ideas from AI, HCI, and software systems. I'm passionate about making AI more useful, trustworthy, and aligned with human values especially in high-stakes domains like science and research. I love collaborating across disciplines and geographies, and am always open to meaningful conversations or potential research collaborations. 
+Hi, I’m Mihir Panchal, an aspiring researcher exploring Natural Language Processing, Large Language Models, Graph Representation Learning, Speech Processing, and Scientific Knowledge Discovery. I have collaborated with leading institutions including Georgia Tech, King’s College London, National University of Singapore, New York University, IIT (ISM) Dhanbad, IIT Jodhpur, IIT Mandi, IIT Patna, DRDO, and NIDM, often bridging theoretical methods and real world applications. I enjoy collaborating with researchers across disciplines and geographies and am always open to new opportunities that push the boundaries of AI and human machine collaboration.
 
 <ul>
 <li> 🌱 I’m currently pursuing BTech in Computer Engineering at Dwarkadas J. Sanghvi College of Engineering </li>
