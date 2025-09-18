@@ -21,7 +21,7 @@
 
 <br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-Hi, I’m Mihir Panchal, an aspiring researcher exploring Natural Language Processing, Large Language Models, Graph Representation Learning, Speech Processing, and Scientific Knowledge Discovery. I have collaborated with leading institutions including Georgia Tech, King’s College London, National University of Singapore, New York University, IIT (ISM) Dhanbad, IIT Jodhpur, IIT Mandi, IIT Patna, DRDO, and NIDM, often bridging theoretical methods and real world applications. I enjoy collaborating with researchers across disciplines and geographies and am always open to new opportunities that push the boundaries of AI and human machine collaboration.
+Hi, I’m Mihir Panchal, an aspiring researcher exploring Natural Language Processing, Large Language Models and Graph Representation Learning. I have collaborated with leading institutions including Georgia Tech, King’s College London, National University of Singapore, IIT (ISM) Dhanbad, IIT Jodhpur, IIT Mandi, IIT Patna, DRDO, and NIDM, often bridging theoretical methods and real world applications. I enjoy collaborating with researchers across disciplines and geographies and am always open to new opportunities that push the boundaries of AI and human machine collaboration. Below is a non exhaustive list of my current research interests.
 
 <ul>
 <li> 🌱 I’m currently pursuing BTech in Computer Engineering at Dwarkadas J. Sanghvi College of Engineering </li>
