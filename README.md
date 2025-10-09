@@ -40,7 +40,8 @@ Hi, I’m Mihir Panchal, an aspiring researcher exploring Natural Language Proce
 <hr>
 <h2>Holopin Badges<h2>
 
-[![An image of @mihirrajeshpanchal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mihirrajeshpanchal)](https://holopin.io/@mihirrajeshpanchal)
+<a href="https://holopin.io/@mihirrajeshpanchal"> <img width="2428" height="764" alt="mihirrajeshpanchal" src="https://github.com/user-attachments/assets/43218c62-1c61-4529-9077-252001f3cb83" /> </a>
+<!--  [![An image of @mihirrajeshpanchal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mihirrajeshpanchal)](https://holopin.io/@mihirrajeshpanchal)  -->
 <hr>
 
   
