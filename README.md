@@ -1,86 +1,92 @@
-<h1> Hey, I’m Mihir! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-  
-<a href="https://discord.gg/459j6nNCab">
-  <img align="left" alt="Mihir | Discord" width="30" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
-</a>
-<!-- <a href="https://twitter.com/Mihir_Panchal">
-  <img align="left" alt="Mihir | Twitter" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> -->
-<a href="https://www.linkedin.com/in/mihirpanchal54/">
-  <img align="left" alt="Mihir | LinkedIN" width="30" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/mihir_panchal_16/">
-  <img align="left" alt="Mihir | Instagram" width="30" src="https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png" />
-</a>
+<h1>Hey, I’m Mihir Panchal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="Waving hand"></h1>
 
+### AI Researcher | NLP · LLMs · Mechanistic Interpretability · Graph Learning
 
-![counter](https://enn1fxhjqs0lr2a.m.pipedream.net)
-![Profile Views](https://komarev.com/ghpvc/?username=MihirRajeshPanchal)
-[![wakatime](https://wakatime.com/badge/user/66b41135-4ace-42e3-8835-e1f376bb31e3.svg)](https://wakatime.com/@66b41135-4ace-42e3-8835-e1f376bb31e3)
-
-
-<br>
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-Hi, I’m Mihir Panchal, a researcher exploring Natural Language Processing, Large Language Models, Mechanistic Interpretability, and Graph Representation Learning. I am currently pursuing a Master of Computing in Artificial Intelligence at the National University of Singapore (NUS), where I am on the Dissertation Track. I have collaborated with leading institutions including Georgia Tech, King’s College London, National University of Singapore, IIT (ISM) Dhanbad, IIT Jodhpur, IIT Mandi, IIT Patna, DRDO, and NIDM, working across areas that bridge theoretical methods with real-world AI applications. My research interests span reasoning and interpretability in LLMs, memory-augmented and retrieval-augmented architectures, multi-agent systems, graph representation learning, multilingual NLP, and human-machine collaboration. I enjoy collaborating with researchers across disciplines and geographies and am always open to new opportunities that push the boundaries of AI, intelligent systems, and human-machine collaboration. Below is a non-exhaustive list of my current research interests. Feel free to reach out via your favorite platform :)
-
-
-
-<br />
-
-<ul>
-<li> 🌱 I’m currently pursuing Masters of Computing in Artificial Intelligence at Nation University of Singapore </li>
-<li> 💼 Wanna colab on Projects? do reach, <a href="mailto:mihirpanchal5400@gmail.com">email</a></li>
-<li> 💬 Ask me about anything, I am happy to help </li>
-<li> ⚡ Fun fact : The more you GRIND, the more you GET💫</li>
-</ul>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,androidstudio,aws,blender,bootstrap,c,cs,css,dart,devto,django,docker,dynamodb,elasticsearch,expo,fastapi,figma,firebase,flask,fleet,flutter,gcp,git,github,githubactions,html,huggingface,ai,java,js,jupyter,kaggle,langchain,linux,latex,llamaindex,mongodb,mysql,netlify,nextjs,nodejs,npm,ollama,opencv,postgres,postman,prisma,py,pygame,pytorch,qdrant,react,redis,replit,seaborn,selenium,sklearn,sqlite,streamlit,s3,tailwind,tensorflow,terraform,threejs,typescript,ubuntu,unity,vercel,vite,vscode,vuejs&perline=14" />
-
+<p align="left">
+  <a href="https://mihirpanchal.tech">
+    <img alt="Mihir | Website" width="30" src="https://www.svgrepo.com/show/398259/scientist.svg" />
+  </a>
+  &nbsp;
+  <a href="https://scholar.google.com/citations?user=zWNLh60AAAAJ">
+    <img alt="Mihir | Google Scholar" width="30" src="https://cdn.simpleicons.org/googlescholar/4285F4" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mihirpanchal54/">
+    <img alt="Mihir | LinkedIn" width="30" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
+  </a>
+  &nbsp;
+  <a href="https://orcid.org/0009-0001-6459-0439">
+    <img alt="Mihir | ORCID" width="30" src="https://cdn.simpleicons.org/orcid/A6CE39" />
+  </a>
+  &nbsp;
+  <a href="mailto:mihir@comp.nus.edu.sg">
+    <img alt="Mihir | Email" width="30" src="https://cdn.simpleicons.org/gmail/EA4335" />
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/459j6nNCab">
+    <img alt="Mihir | Discord" width="30" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/mihir_panchal_16/">
+    <img alt="Mihir | Instagram" width="30" src="https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png" />
   </a>
 </p>
 
-<hr>
-<h2>Holopin Badges<h2>
+---
 
-<a href="https://holopin.io/@mihirrajeshpanchal"> <img width="2428" height="764" alt="mihirrajeshpanchal" src="https://github.com/user-attachments/assets/43218c62-1c61-4529-9077-252001f3cb83" /> </a>
-<!--  [![An image of @mihirrajeshpanchal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mihirrajeshpanchal)](https://holopin.io/@mihirrajeshpanchal)  -->
-<hr>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVtMDZ0cWUzOHZ6a2FqcW0wMGhjbGUxY20zeHU2N2tmc2phN3plbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xx0JzzsBXzcMK542tx/giphy.gif" />
 
-  
-<h2>Mihir's Contribution Graph<h2>
+Hi, I'm **Mihir Panchal**, a researcher exploring Natural Language Processing, Large Language Models, Mechanistic Interpretability, and Graph Representation Learning.
+
+I am currently pursuing a **Master of Computing in Artificial Intelligence (Dissertation Track) at the National University of Singapore (NUS)**.
+
+I have collaborated with researchers at **A*STAR CFAR, Georgia Tech, King's College London, NUS, IIT (ISM) Dhanbad, IIT Jodhpur, IIT Mandi, IIT Patna, DRDO, and NIDM**.
+
+My research interests include:
+
+- Mechanistic Interpretability and LLM Reasoning
+- Memory-Augmented LLMs and Retrieval-Augmented Generation
+- Multi-Agent Systems and Collaborative Reasoning
+- Multilingual NLP and Cross-Lingual Interpretability
+- Graph Representation Learning and Knowledge Graphs
+- Human-AI Collaboration
+
+I enjoy collaborating with researchers across disciplines and geographies. Feel free to reach out!
+
+- 🎓 Pursuing MComp in Artificial Intelligence at **NUS**.
+- 🔬 Research collaboration with **A*STAR Centre for Frontier AI Research**.
+- 📄 Interested in research collaborations, PhD opportunities, and AI research.
+- 💬 Always happy to discuss research, LLMs, and intelligent systems.
+
+---
+
+## Research Projects & Publications
+
+| Project / Publication | Research Area | Resources |
+|---|---|---|
+| **InterpSteer** – Interpreting and Steering Internal Representations in Multilingual Language Models | Mechanistic Interpretability · Multilingual NLP | [Paper](https://github.com/arr-anon1/interpsteer) · [Code](https://github.com/arr-anon1/interpsteer) |
+| **Indic-TunedLens** – Interpreting Multilingual Models in Indian Languages | Multilingual NLP · Interpretability | [Paper](https://aclanthology.org/2026.vardial-1.14.pdf) · [Code](https://github.com/MihirRajeshPanchal/IndicTunedLens) · [Demo](https://huggingface.co/spaces/MihirRajeshPanchal/IndicTunedLens) |
+| **CraniMem** – Cranial Inspired Gated and Bounded Memory for Agentic Systems | Memory-Augmented AI · Multi-Agent Systems | [Paper](https://arxiv.org/abs/2603.15642) · [Code](https://github.com/MihirRajeshPanchal/CraniMEM) · [Project](https://cranimem-iclr.vercel.app/) |
+| **CC-GRMAS** – Multi-Agent Graph Neural System for Landslide Risk Assessment | Graph Neural Networks · RAG · Climate AI | [Paper](https://arxiv.org/abs/2510.20875) · [Code](https://github.com/MihirRajeshPanchal/CC-GRMAS) · [Demo](https://ccgrmas.streamlit.app/) |
+| **FRAC-MAS** – Safe and Explainable Multi-Agent System for Fracture Diagnosis | Medical AI · Multi-Agent Systems | [Paper](https://arxiv.org/abs/2608.28662) · [Code](https://github.com/hardik1712/FRAC-MAS) |
+| **ConsistentPeer** – GraphRAG-Driven Counterfactuals for Peer Review Consistency | GraphRAG · Scientific Peer Review | [Paper](https://doi.org/10.1007/s41060-026-01047-3) · [Code](https://github.com/MihirRajeshPanchal/ConsistentPeer) |
+| **Co-Reviewer** – Agentic Framework for LLM-Human Alignment in Peer Review | LLM Agents · Human-AI Alignment | [Paper](https://doi.org/10.1007/s11192-026-05557-6) · [Code](https://github.com/MihirRajeshPanchal/Co-Reviewer) |
+| **InsightfulPeer** – Exhaustive vs. Trivial Scientific Peer Reviews | Computational Linguistics · LLM Reasoning | [Paper](https://doi.org/10.1007/s11192-025-05435-7) · [Code](https://github.com/MihirRajeshPanchal/InsightfulPeer) |
+| **LEDGE** – Leveraging Dependency Graphs for Context-Aware Documentation | Graph Learning · Software Engineering | [Paper](https://doi.org/10.1007/s10515-026-00596-y) · [Code](https://github.com/MihirRajeshPanchal/LEDGE) |
+| **Interpretable Reasoning Enhancement in LLMs** | LLM Reasoning · Puzzle & Ontological Tasks | [Paper](https://aclanthology.org/2025.ijcnlp-srw.12/) · [Poster](https://mihirrajeshpanchal.github.io/images/AACL_2025_SRW-20_Poster.pdf) |
+
+For the complete list of publications, visit my [Google Scholar](https://scholar.google.com/citations?user=zWNLh60AAAAJ) or [Research Portfolio](https://mihirrajeshpanchal.github.io/nus/Mihir_Research_Portfolio.pdf).
+
+---
+
+## GitHub Contribution Snake 🐍
 
 <p align="center">
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=MihirRajeshPanchal" />
-<br>
-<p>
+  <img src="https://raw.githubusercontent.com/MihirRajeshPanchal/MihirRajeshPanchal/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
-<h2>GitHub Trophies<h2>
+---
 
 <p align="center">
-<img width="800" src="https://github-profile-trophy.vercel.app/?username=MihirRajeshPanchal&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" />
-<br>
-  <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=MihirRajeshPanchal&show_icons=true&theme=tokyonight">
-    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MihirRajeshPanchal&show_icons=true&theme=tokyonight" />
-  </a>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=MihirRajeshPanchal&theme=tokyonight">
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=MihirRajeshPanchal&theme=tokyonight" />
-  </a>
-  <a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MihirRajeshPanchal&theme=dark&layout=compact">
-    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MihirRajeshPanchal&theme=dark&layout=compact" /> 
-  </a>
+  <i>Understanding intelligence. Interpreting representations. Advancing human-AI collaboration.</i>
 </p>
-</a>
-
-## 3D Contribution Calendar 📅
-<br>
-<p align='center'>
-<img src="./profile-3d-contrib/profile-night-green.svg">
-</p>
-<hr>
-<h1>Github Contribution✨<h1>
-
-![snake gif](https://github.com/MihirRajeshPanchal/MihirRajeshPanchal/blob/output/github-contribution-grid-snake.svg)
-
